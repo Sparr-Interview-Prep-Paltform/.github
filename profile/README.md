@@ -497,30 +497,22 @@ Potential improvements and extensions include:
 
 - Support for additional resume formats.
 - More detailed candidate profiles.
-- Interview history and performance comparisons.
-- Advanced filtering and search.
 - More interview types and difficulty levels.
 - Improved learning roadmap personalization.
 
 ### AI Improvements
 
-- More advanced resume analysis.
 - Adaptive interview difficulty based on candidate performance.
-- More detailed feedback and evaluation criteria.
 - Improved answer evaluation consistency.
-- Personalized learning recommendations based on interview results.
-- Support for additional programming languages and technical domains.
+- Personalized learning recommendations.
 
 ### Infrastructure and Performance
 
 - Horizontal scaling of backend and AI services.
 - Dedicated and scalable queue infrastructure.
-- Improved caching strategies.
 - Object storage for uploaded files.
-- Centralized logging and monitoring.
 - Automated deployment pipelines.
-- More comprehensive automated integration and feature tests.
-- Improved AI-service resource management and cleanup.
+
 
 ---
 
@@ -536,11 +528,6 @@ The project team consists of:
 
 The project follows a collaborative development approach, with responsibilities distributed across frontend development, backend engineering, and AI integration.
 
----
-
-## Acknowledgements
-
-Special thanks to Gaza Sky Geeks and the Market Ready Developer Program for providing the learning environment and support throughout the development of this project.
 
 ---
 
