@@ -478,7 +478,14 @@ Key considerations include:
 
 ## Deployment
 
-The whole system is deployed on AWS server: [Demo](https://sparr-ai.mooo.com/)
+Sparr is deployed on **AWS EC2**. The application was manually deployed and configured on an EC2 instance, with its backend and AI service running in a production environment.
+
+- **Cloud Provider:** Amazon Web Services (AWS)
+- **Compute:** Amazon EC2
+- **Deployment:** Manual deployment and server configuration
+- **Live Demo:** [https://sparr-ai.mooo.com/](https://sparr-ai.mooo.com/)
+
+The application is accessible through the live demo above. 
 
 ---
 
@@ -534,6 +541,40 @@ The project follows a collaborative development approach, with responsibilities 
 ## Acknowledgements
 
 Special thanks to Gaza Sky Geeks and the Market Ready Developer Program for providing the learning environment and support throughout the development of this project.
+
+---
+
+## Application Screenshots
+
+### Dashboard
+
+The central workspace for managing resumes, job opportunities, and interview preparation.
+
+![Sparr Dashboard](../Screenshots/Dashboard2.png)
+
+### Skill Gap Analysis
+
+Analyze the alignment between a candidate's skills and a target job description, highlighting matching skills, missing skills, and the overall match percentage.
+
+![Skill Gap Analysis](../Screenshots/NewInterview.png)
+
+### Personalized Learning Roadmap
+
+A structured learning roadmap generated from the identified skill gaps to help candidates prioritize their preparation.
+
+![Learning Roadmap](../Screenshots/Roadmap.png)
+
+### AI-Powered Mock Interview
+
+Practice technical interviews through AI-generated questions tailored to the candidate's background and target role.
+
+![AI Mock Interview](../Screenshots/Question2.png)
+
+### Final Interview Report
+
+Review overall interview performance, strengths, improvement areas, and detailed evaluation dimensions.
+
+![Final Interview Report](../Screenshots/FinalReport.png)
 
 ---
 
