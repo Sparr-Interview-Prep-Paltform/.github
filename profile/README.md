@@ -193,7 +193,7 @@ The backend remains responsible for application state and workflow coordination,
 | Backend | PHP, Laravel 13 |
 | Database | MySQL |
 | Authentication | Laravel Sanctum |
-| AI Service | Python /Python / FastAPI / cluade LLM / Gemini LLM|
+| AI Service |Python / FastAPI / Gemini API / Claude API|
 | Backend-AI Communication | HTTP / REST |
 | Background Processing | Laravel Queues |
 | Containerization | Docker, Docker Compose |
