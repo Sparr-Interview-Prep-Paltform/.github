@@ -222,7 +222,7 @@ Main responsibilities:
 - Answer submission and feedback.
 - Final report visualization.
 
-Repository: `[Frontend Repository URL]`
+Repository: [Frontend Repository URL](https://github.com/baraa-bozia/GSGProject/tree/master)
 
 ### 2. Backend Repository
 
