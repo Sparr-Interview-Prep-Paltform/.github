@@ -154,7 +154,18 @@ The application follows a separated frontend, backend, and AI-service architectu
 
 ### Frontend
 
-The React application communicates with the Laravel API and provides the user interface for all platform features.
+The React application communicates with the Laravel API and provides the user interface for all platform features. It handles:
+
+- User registration, login, and authentication flows.
+- Resume upload and management.
+- Job description creation and management.
+- AI-powered interview initiation and interaction.
+- Real-time interview question display and answer submission.
+- Interview progress tracking and navigation.
+- Interview history and detailed results.
+- Personalized learning roadmap based on skill gaps.
+- Final report visualization, including interview evaluation, scores and improvement recommendations.
+- Dashboard with interview statistics and summaries.
 
 ### Backend
 
